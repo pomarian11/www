@@ -13,6 +13,7 @@ body
     margin-left: auto;
     margin-right: auto;
     background-color: #656545;
+    border: 4px solid #F4F4EE;
 }
 
 #main
@@ -21,3 +22,4 @@ body
     margin: 20px;
     color: white;
     text-align: center;
+    border: 4px solid #F4F4EE;

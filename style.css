@@ -6,13 +6,15 @@ body
 }
 
 
-container
+#container
 {
-    text-align: center;
-    background: #EEEED1;
-    margin-top:30px;
-    margin-bottom:30px;
-    color:#333333;
-    background-color: #533343;
-    
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+#main
+{
+    width: 700px;
+    margin: 20px;
+    color: white;

@@ -8,31 +8,7 @@ body
 
 #container
 {
-    width: 800px;
-    height: 850px;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #656545;
-    border: 4px solid #F4F4EE;
-}
-
-#main
-{
-    width: 700px;
-    height: 500px;
+    
     margin: 50px;
-    color: white;
-    text-align: center;
     border: 4px solid #F4F4EE;
-}
-
-#kupa
-{
-    margin-left: 20px;
-    margin-right: 100px;
-    margin-bottom: 120px;
-    margin-top: 30px;
-    color: red;
-    text-align: center;
-    border: 4px solid #232323;
 }

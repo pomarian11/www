@@ -8,7 +8,15 @@ body
 
 #container
 {
-    
+    height: 800px;
     margin: 50px;
     border: 4px solid #F4F4EE;
+}
+
+#main
+{
+    margin: 30px;
+    border: 4px solid #F4F4EE;
+    color: aqua;
+    
 }

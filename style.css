@@ -15,9 +15,32 @@ body
 
 #main
 {
-    width: 700px;
+    width: 650px;
     height: 400px;
     margin-right: 50px;
     margin-bottom: 50px;
     background-color: white;
+    float: left;
 }
+
+.koty1
+{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    
+}
+
+.koty2
+{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    margin-left: 50px;
+    
+}
+

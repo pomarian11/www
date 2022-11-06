@@ -1,0 +1,61 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    background-color: #80848a;
+    font-size: 20px;
+}
+
+#container
+{
+    
+    width: 800px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75;
+    
+}
+
+#omnie
+{
+    background-color: #93c748;
+    text-align: center;
+    font-size: 30px;
+    width: 380px;
+    height: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#koty
+{
+    background-color: #3095d3;
+    width: 380px;
+    height: 250px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#karate
+{
+    background-color: #999999;
+    width: 380px;
+    height: 250px;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: left ;
+}
+
+#animacje
+{
+    background-color: #000545;
+    width: 380px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+

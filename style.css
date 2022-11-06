@@ -19,7 +19,7 @@ body
 
 #omnie
 {
-    background-color: #93c748;
+    background-color: #82b637;
     text-align: center;
     font-size: 30px;
     width: 380px;
@@ -27,6 +27,11 @@ body
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
+}
+
+#omnie:hover
+{
+    background-color: #93c748;
 }
 
 #koty
@@ -37,6 +42,14 @@ body
     margin-left: 20px;
     margin-bottom: 20px;
     float: left;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+#koty:hover
+{
+    background-color: #41a6e4;
 }
 
 #karate
@@ -47,6 +60,13 @@ body
     margin-right: 20px;
     margin-top: 20px;
     float: left ;
+    text-align: center;
+    font-size: 30px;
+}
+
+#karate:hover
+{
+    background-color: #aaaaaa;
 }
 
 #animacje
@@ -57,5 +77,11 @@ body
     margin-left: 20px;
     margin-top: 20px;
     float: left;
+    text-align: center;
+    font-size: 30px;
 }
 
+#animacje:hover
+{
+    background-color: #111656;
+}
